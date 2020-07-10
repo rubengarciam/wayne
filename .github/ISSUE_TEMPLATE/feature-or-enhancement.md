@@ -3,7 +3,7 @@ name: Feature or Enhancement
 about: Suggest a new feature for Wayne
 title: ''
 labels: enhancement
-assignees: ''
+assignees: rubengarciam
 
 ---
 

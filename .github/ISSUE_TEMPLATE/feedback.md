@@ -3,7 +3,7 @@ name: Feedback
 about: Give us feedback about Wayne
 title: ''
 labels: feedback
-assignees: ''
+assignees: rubengarciam
 
 ---
 
