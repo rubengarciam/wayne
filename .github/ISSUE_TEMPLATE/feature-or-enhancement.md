@@ -2,7 +2,7 @@
 name: Feature or Enhancement
 about: Suggest a new feature for Wayne
 title: ''
-labels: feature request
+labels: enhancement
 assignees: rubengarciam
 
 ---
