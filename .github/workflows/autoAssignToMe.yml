@@ -1,0 +1,12 @@
+name: Auto Assign to User
+on:
+  issues:
+    types: [opened]
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+jobs:
+  assign_me:
+    runs-on: ubuntu-latest
+    name: Assign to Me
+    steps:
+      - uses: AlbertHernandez/assign-me@v1
